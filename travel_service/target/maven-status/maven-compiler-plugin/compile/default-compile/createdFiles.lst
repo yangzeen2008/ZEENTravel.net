@@ -1,0 +1,12 @@
+com\travel\service\impl\OrdersServiceImpl.class
+com\travel\service\impl\RoleService.class
+com\travel\service\IProductService.class
+com\travel\service\IRoleService.class
+com\travel\service\ISysLogService.class
+com\travel\service\impl\SysLogServiceImpl.class
+com\travel\service\IOrdersService.class
+com\travel\service\IPermissionService.class
+com\travel\service\IUserService.class
+com\travel\service\impl\ProductServiceImpl.class
+com\travel\service\impl\PermissionService.class
+com\travel\service\impl\UserServiceImpl.class
